@@ -12,3 +12,4 @@ class Solution {
         return arr;
     }
 }
+//pascall triangle 2
